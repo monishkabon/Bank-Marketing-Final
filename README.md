@@ -129,4 +129,4 @@ The workflow is architected into four modular, auditable phases:
 
 This exhibit repository is a curated, production-clean showcase of the collaborative project. The original development and experimental workspace containing raw commit histories and intermediate work logs is maintained at:
 
-* **Original Repository**: [https://github.com/dilni2004/Bank-Marketing-Analysis](https://github.com/dilni2004/Bank-Marketing-Analysis.git) (Maintained by [@dilni2004](https://github.com/dilni2004))
+* **Original Repository**: [https://github.com/dilni2004/Bank-Marketing-Analysis](https://github.com/dilni2004/Bank-Marketing-Analysis.git) (Maintained by [@dilni2004](https://github.com/dilni2004 ), [@monishkabon ](https://github.com/monishkabon ), [@Sandeera-2003 ](https://github.com/Sandeera-2003 ), [@SandamalSiribaddana ](https://github.com/SandamalSiribaddana ))
